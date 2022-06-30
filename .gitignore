@@ -5,6 +5,9 @@
 /.pnp
 .pnp.js
 
+mdeiumblog/node_modules
+mdeiumblog/dist
+
 # testing
 /coverage
 
